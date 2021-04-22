@@ -2,8 +2,10 @@ Stating the problem:
 creating a model that predicts whether or potential applicants will complete the electronic signature phase
 of the loan application (a.k.a. e_signed) with given dataset that includes personalinformation like age,
 time employed, and other financial metrics.
-
-
+<br>
+<br>
+<br>
+<br><br>
 Content:
 1. folder for the code: 
     - EDA
