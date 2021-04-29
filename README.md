@@ -1,4 +1,4 @@
-Stating the problem:
+Stating the problem:<br>
 creating a model that predicts whether or potential applicants will complete the electronic signature phase 
 of the loan application (a.k.a. e_signed) with a given dataset that includes personal information like age, 
 time employed, and other financial metrics.
