@@ -1,6 +1,6 @@
-Stating the problem:
-creating a model that predicts whether or potential applicants will complete the electronic signature phase
-of the loan application (a.k.a. e_signed) with given dataset that includes personalinformation like age,
+Stating the problem:<br>
+To create a model that predicts whether or potential applicants will complete the electronic signature phase 
+of the loan application (a.k.a. e_signed) with a given dataset that includes personal information like age, 
 time employed, and other financial metrics.
 
 <br>
@@ -38,5 +38,5 @@ Modeling:
 <br>
 <br>
 
-Dataset:
+Dataset:<br>
       - Financial_Data
